@@ -1,4 +1,4 @@
-#Pytest Automation Project
+Pytest Automation Project
 
 ##📄 Overview
 This is a sample project for automating web testing using the Page Object Model (POM) pattern and the Pytest framework. It includes a basic structure to facilitate automated testing of a web application with test cases focused on login functionalities.
